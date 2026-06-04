@@ -6,7 +6,7 @@ athletes and a speech-based cognitive-screening pipeline. I care about accessibi
 - Interested in: applied ML, speech/audio AI, LLM applications
 - Reach me: &lt;tanvi.naik8789@gmail.com&gt; · &lt;[linkedin-url](https://www.linkedin.com/in/tanvi-naik-b9b8b0312/)&gt;
 ---
-## �� Featured Projects
+## Featured Projects
 | Project | What it is | Stack |
 |---|---|---|
 | [mindsport](https://github.com/tanvi8789/mindsport) | Full-stack athlete mental- performance app with an AI wellness chatbot | Flutter · Node/Express · MongoDB |
@@ -19,9 +19,15 @@ GitHub Portfolio Audit · github.com/tanvi8789
 
 
 ## Skills
-**Languages:** Python · Dart · Kotlin · Java · C++
-**ML / AI:** scikit-learn · Whisper · Librosa · Sentence-Transformers · Dialogflow
-**Mobile:** Flutter · Android (Kotlin)
-**Backend:** Node.js/Express · Flask · MongoDB · Docker
-**Tools:** Git · Streamlit · REST APIs
+#### Languages:
+  Python · Dart · Kotlin · Java · C++
+#### ML / AI:
+  scikit-learn · Whisper · Librosa · Sentence-Transformers · Dialogflow
+#### Mobile:
+  Flutter · Android (Kotlin)
+#### Backend:
+  Node.js/Express · Flask · MongoDB · Docker
+#### Tools: 
+  Git · Streamlit · REST APIs
+####
 ---
