@@ -4,7 +4,7 @@ I build practical AI products that solve real human problems — from a voice-fi
 athletes and a speech-based cognitive-screening pipeline. I care about accessibility, applied machine learning, and shipping things that work.
 - Currently learning: deep learning, AI system design, DSA
 - Interested in: applied ML, speech/audio AI, LLM applications
-- Reach me: tanvi.naik8789@gmail.com; [linkedin-url](https://www.linkedin.com/in/tanvi-naik-b9b8b0312/)
+- Reach me: [gmail](tanvi.naik8789@gmail.com); [linkedin](https://www.linkedin.com/in/tanvi-naik-b9b8b0312/)
 ---
 
 
